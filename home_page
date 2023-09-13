@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Home </title>
+</head>
+<body>
+<center>
+<h1>WELCOME TO MY WEBSITE</h1>
+</center>
+<hr>
+<ul>
+<li><a href="https://jayoda99.github.io/SelfStudy_5.2/home_page">Home</a></li>
+<li><a href="https://jayoda99.github.io/SelfStudy_5.2/products_page">Products</a></li>
+<li><a href="https://jayoda99.github.io/SelfStudy_5.2/about_page">About Us</a></li>
+<li><a href="https://jayoda99.github.io/SelfStudy_5.2/contact_page">Contact</a></li>
+</ul>
+<img src="https://jayoda99.github.io/SelfStudy_5.2/teapotopia.png" alt="Teapotopia banner" width="900" height="300">
 
+</body>
+</html>
